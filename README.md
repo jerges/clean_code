@@ -148,7 +148,7 @@ public String format(String value, int type, boolean isBold, boolean isItalic, C
 public String format(TextAttributes attributes) {...}
 ```
 
-- **Evitar variables globales y clases Singleton**:
+- **Evitar variables globales y clases Singleton, usar la iyección de dependia en la medida de lo posible**:
 
 **Malo** (Singleton):
 ```java
@@ -212,7 +212,7 @@ public void markOrderAsProcessed(Order order) {
 }
 ```
 
-- **Test unitarios**:
+- **Uso de test unitarios**:
 
 ```java
 @Test
