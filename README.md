@@ -387,6 +387,8 @@ Imaginemos una aplicación simple de gestión de usuarios:
 5. **Flexibilidad**: Con una arquitectura desacoplada, es más fácil adaptar el sistema a cambios futuros.
 
 ---
+# S.O.L.I.D
+---
 
 ## 1. Principio de Responsabilidad Única (Single Responsibility Principle - SRP)
 
